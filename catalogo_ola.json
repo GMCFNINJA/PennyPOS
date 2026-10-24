@@ -1,0 +1,132 @@
+[
+  {
+    "nome": "Calippo Morango/Limão",
+    "preco": 1.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/calipo.jpg"
+  },
+  {
+    "nome": "Cornetto de Brigadeiro",
+    "preco": 2.10,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/corneto_brigadeiro.jpg"
+  },
+  {
+    "nome": "Cornetto Choc’n’Ball XL",
+    "preco": 2.10,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/corneto_chocnball.jpg"
+  },
+  {
+    "nome": "Cornetto Tropical Manga",
+    "preco": 2.10,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/corneto_manga.jpg"
+  },
+  {
+    "nome": "Cornetto de Morango",
+    "preco": 1.90,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/corneto_morango.jpg"
+  },
+  {
+    "nome": "Cornetto Max Pistachio",
+    "preco": 2.10,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/corneto_pistachio.jpg"
+  },
+  {
+    "nome": "Cornetto Clássico",
+    "preco": 1.90,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/cornetto_classico.jpg"
+  },
+  {
+    "nome": "Filipinos",
+    "preco": 2.10,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/filipinos.jpg"
+  },
+  {
+    "nome": "Fizz",
+    "preco": 1.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/fizz.jpg"
+  },
+  {
+    "nome": "Haribo Push Up",
+    "preco": 1.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/haribo.jpg"
+  },
+  {
+    "nome": "Magnum de Amêndoas",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_amendoas.jpg"
+  },
+  {
+    "nome": "Magnum Chocolate Branco",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_branco.jpg"
+  },
+  {
+    "nome": "Magnum Caramel & Nuts",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_caramel&nuts.jpg"
+  },
+  {
+    "nome": "Magnum Double Gold Billionaire",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_caramel.jpg"
+  },
+  {
+    "nome": "Magnum Pêssego",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_pessego.jpg"
+  },
+  {
+    "nome": "Magnum Pistachio",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_pistachio.jpg"
+  },
+  {
+    "nome": "Magnum Sandwich",
+    "preco": 2.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/magnum_sandwich.jpg"
+  },
+  {
+    "nome": "Perna de Pau",
+    "preco": 1.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/pernapau.jpg"
+  },
+  {
+    "nome": "Perna de Pau Cone",
+    "preco": 1.80,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/pernapaucone.jpg"
+  },
+  {
+    "nome": "Picolero! Abacaxi com Hortelã",
+    "preco": 1.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/picolero.jpg"
+  },
+  {
+    "nome": "Remix Cookie",
+    "preco": 2.00,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/remixcookie.jpg"
+  },
+  {
+    "nome": "Rol",
+    "preco": 1.50,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/rol.jpg"
+  },
+  {
+    "nome": "Solero Exótico",
+    "preco": 1.70,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/solero_exotico.jpg"
+  },
+  {
+    "nome": "Solero Morango e Lima",
+    "preco": 1.70,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/solero_morangolima.jpg"
+  },
+  {
+    "nome": "Super Twister",
+    "preco": 1.70,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/twister.jpg"
+  },
+  {
+    "nome": "Volcanix 5 Camadas",
+    "preco": 2.00,
+    "imagem": "https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/produtos/OLA/volcanix.jpg"
+  }
+]
