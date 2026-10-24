@@ -7,11 +7,19 @@
 
     <title>PennyPOS — Brevemente</title>
 
-    <!-- Favicon original -->
+    <!-- Favicon -->
     <link
         rel="icon"
         type="image/png"
         href="https://raw.githubusercontent.com/GMCFNINJA/PennyPOS/refs/heads/main/img/logo/logo.png"
+    >
+
+    <!-- Fonte BBH Bartle -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=BBH+Bartle&display=swap"
+        rel="stylesheet"
     >
 
     <style>
@@ -23,16 +31,19 @@
 
         body {
             min-height: 100vh;
+            min-height: 100dvh;
+
             background-color: #000;
             color: #fff;
-            font-family: Arial, Helvetica, sans-serif;
+
+            font-family: 'BBH Bartle', sans-serif;
 
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            text-align: center;
 
+            text-align: center;
             padding: 20px;
         }
 
@@ -42,15 +53,27 @@
             object-fit: contain;
             display: block;
 
-            /* Transforma o logótipo em branco */
+            /* Logótipo completamente branco */
             filter: brightness(0) invert(1);
         }
 
         .texto {
             margin-top: 24px;
-            font-size: clamp(18px, 4vw, 28px);
-            font-weight: 700;
-            letter-spacing: 5px;
+            font-family: 'BBH Bartle', sans-serif;
+            font-size: clamp(16px, 4vw, 28px);
+            font-weight: 400;
+            letter-spacing: 3px;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 480px) {
+            .logo {
+                width: min(75vw, 300px);
+            }
+
+            .texto {
+                letter-spacing: 2px;
+            }
         }
     </style>
 </head>
